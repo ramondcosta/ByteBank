@@ -2,8 +2,6 @@
 import os
 import sys
 
-#novo comentt
-
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'to_do.settings')
     try:
